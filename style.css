@@ -10,6 +10,11 @@ header nav {
   gap: 50px;
 }
 
+main {
+  display: flex;
+
+}
+
 body {
   background-color: #061130;
   flex-direction: column;

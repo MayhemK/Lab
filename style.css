@@ -1,0 +1,58 @@
+header {
+  display: flex;
+  gap: 3rem;
+  padding: 45px
+}
+
+header nav {
+  display: flex;
+  color: orange;
+  gap: 50px;
+}
+
+body {
+  background-color: #061130;
+  flex-direction: column;
+  color: white;
+  outline: 1px dotted pink;
+  padding: 2rem;
+}
+
+footer {
+  background-color: antiquewhite;
+  flex-direction: column;
+  color: black;
+}
+
+nav {
+  gap: 2rem
+}
+
+.yellow {
+  color: yellow;
+}
+
+.very-bottom {
+  background-color: #eef3f3;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.justify-space {
+  justify-content: space-between;
+
+}
+
+.column {
+  flex-direction: column;
+}
+
+.align-center {
+  align-items: center;
+}

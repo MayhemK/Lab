@@ -1,7 +1,7 @@
 header {
   display: flex;
   gap: 3rem;
-  padding: 45px
+  padding: 2rem
 }
 
 header nav {
@@ -12,6 +12,7 @@ header nav {
 
 main {
   display: flex;
+  padding: 10rem 6rem;
 
 }
 
@@ -19,12 +20,13 @@ body {
   background-color: #061130;
   flex-direction: column;
   color: white;
-  padding: 2rem;
+  margin: 0px;
 }
 
 footer {
-  background-color: antiquewhite;
-  flex-direction: column;
+  background-color: white;
+
+
   color: black;
 }
 
@@ -32,12 +34,18 @@ nav {
   gap: 2rem
 }
 
+.links {
+  background-color: white;
+  padding: 3rem 10rem;
+  color: black
+}
+
 .yellow {
   color: yellow;
 }
 
 .very-bottom {
-  background-color: #eef3f3;
+  background-color: #f3f6f8;
 }
 
 .display-flex {

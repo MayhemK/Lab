@@ -19,7 +19,6 @@ body {
   background-color: #061130;
   flex-direction: column;
   color: white;
-  outline: 1px dotted pink;
   padding: 2rem;
 }
 
